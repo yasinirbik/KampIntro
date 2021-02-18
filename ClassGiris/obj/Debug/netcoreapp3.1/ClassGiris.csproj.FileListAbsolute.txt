@@ -1,0 +1,13 @@
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\bin\Debug\netcoreapp3.1\ClassGiris.exe
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\bin\Debug\netcoreapp3.1\ClassGiris.deps.json
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\bin\Debug\netcoreapp3.1\ClassGiris.runtimeconfig.json
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\bin\Debug\netcoreapp3.1\ClassGiris.runtimeconfig.dev.json
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\bin\Debug\netcoreapp3.1\ClassGiris.dll
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\bin\Debug\netcoreapp3.1\ClassGiris.pdb
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\obj\Debug\netcoreapp3.1\ClassGiris.csprojAssemblyReference.cache
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\obj\Debug\netcoreapp3.1\ClassGiris.AssemblyInfoInputs.cache
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\obj\Debug\netcoreapp3.1\ClassGiris.AssemblyInfo.cs
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\obj\Debug\netcoreapp3.1\ClassGiris.csproj.CoreCompileInputs.cache
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\obj\Debug\netcoreapp3.1\ClassGiris.dll
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\obj\Debug\netcoreapp3.1\ClassGiris.pdb
+C:\Users\Yasin IRBIK\source\repos\CampIntro\ClassGiris\obj\Debug\netcoreapp3.1\ClassGiris.genruntimeconfig.cache
