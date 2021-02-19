@@ -1,0 +1,13 @@
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
+C:\Users\Yasin IRBIK\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
