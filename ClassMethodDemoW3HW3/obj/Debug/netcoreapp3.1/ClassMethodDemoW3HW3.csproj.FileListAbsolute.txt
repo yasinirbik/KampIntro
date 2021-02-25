@@ -1,0 +1,12 @@
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\obj\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.AssemblyInfoInputs.cache
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\obj\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.AssemblyInfo.cs
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\obj\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.csproj.CoreCompileInputs.cache
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\bin\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.exe
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\bin\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.deps.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\bin\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.runtimeconfig.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\bin\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.runtimeconfig.dev.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\bin\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.dll
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\bin\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.pdb
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\obj\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.dll
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\obj\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.pdb
+C:\Users\Yasin IRBIK\source\repos\KampIntro\ClassMethodDemoW3HW3\obj\Debug\netcoreapp3.1\ClassMethodDemoW3HW3.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\bin\Debug\netcoreapp3.1\W2HW6.exe
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\bin\Debug\netcoreapp3.1\W2HW6.deps.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\bin\Debug\netcoreapp3.1\W2HW6.runtimeconfig.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\bin\Debug\netcoreapp3.1\W2HW6.runtimeconfig.dev.json
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\bin\Debug\netcoreapp3.1\W2HW6.dll
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\bin\Debug\netcoreapp3.1\W2HW6.pdb
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\obj\Debug\netcoreapp3.1\W2HW6.AssemblyInfoInputs.cache
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\obj\Debug\netcoreapp3.1\W2HW6.AssemblyInfo.cs
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\obj\Debug\netcoreapp3.1\W2HW6.csproj.CoreCompileInputs.cache
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\obj\Debug\netcoreapp3.1\W2HW6.dll
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\obj\Debug\netcoreapp3.1\W2HW6.pdb
+C:\Users\Yasin IRBIK\source\repos\KampIntro\Week2Homework6\obj\Debug\netcoreapp3.1\W2HW6.genruntimeconfig.cache
